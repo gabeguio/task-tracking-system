@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Fed 5th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Fed 6th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Grab Coffee",
+      "day": "Monday",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Grab Coffee",
+      "day": "Monday",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "asd",
+      "day": "ads",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
